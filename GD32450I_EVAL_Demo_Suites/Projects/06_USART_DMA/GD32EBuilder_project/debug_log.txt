@@ -1,0 +1,252 @@
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22063
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000F10, MSP: 0x20000EC0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000E5E, MSP: 0x20000EB8
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22247
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x080018EC, MSP: 0x20000EE0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x080018AA, MSP: 0x20000ED0
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22282
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001060, MSP: 0x20000EC0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000F8E, MSP: 0x20000EB8
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22343
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000FD0, MSP: 0x20000EC0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000F60, MSP: 0x20000EB8
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22388
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001CE0, MSP: 0x20000EC0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08001C96, MSP: 0x20000EB8
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22432
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001CF0, MSP: 0x20000EC0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08001CA4, MSP: 0x20000EB8
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22512
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08001058, MSP: 0x20000EC0
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x21000000, PC: 0x08000F80, MSP: 0x20000EB8
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22769
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000C04, MSP: 0x20000C48
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08000C1C, MSP: 0x20000C40
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22841
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x080014FC, MSP: 0x20000C40
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x01000000, PC: 0x08001512, MSP: 0x20000C40
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22868
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000D72, MSP: 0x20000C40
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08000D88, MSP: 0x20000C40
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=22907
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000D04, MSP: 0x20000C48
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08000D1C, MSP: 0x20000C40
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=23048
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x0800115C, MSP: 0x20000C48
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08001174, MSP: 0x20000C40
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=23133
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x0800116C, MSP: 0x20000C48
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08001184, MSP: 0x20000C40
+Info: Debug terminated
+GD-Link GDB Server 1.6.5.35165
+Copyright (C) 2025 GigaDevice
+Info: Core type: Cortex-M4
+Info: Part No: GD32F450IKH6 
+Info: CMSIS-DAP: swd used
+Info: GD-Link speed 2000 KHz
+Info: Flash size 3072 KBytes
+Info: The core supports 6 hardware breakpoints
+we got a new connection, port=5099, client_count=1, ip=127.0.0.1, client port=23194
+Info: Erase Successfully 
+Info: Download Successfully 
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x61000000, PC: 0x08000DCE, MSP: 0x20000C40
+Info: Target state: halted
+      Target halted due to debug request
+      xPSR: 0x81000000, PC: 0x08000DE4, MSP: 0x20000C40
+Info: Debug terminated
